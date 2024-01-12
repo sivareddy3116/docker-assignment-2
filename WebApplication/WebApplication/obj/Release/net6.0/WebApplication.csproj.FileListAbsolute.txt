@@ -1,0 +1,7 @@
+E:\pahse 3 assignments\day 6\WebApplication\WebApplication\obj\Release\net6.0\WebApplication.csproj.AssemblyReference.cache
+E:\pahse 3 assignments\day 6\WebApplication\WebApplication\obj\Release\net6.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\pahse 3 assignments\day 6\WebApplication\WebApplication\obj\Release\net6.0\WebApplication.AssemblyInfoInputs.cache
+E:\pahse 3 assignments\day 6\WebApplication\WebApplication\obj\Release\net6.0\WebApplication.AssemblyInfo.cs
+E:\pahse 3 assignments\day 6\WebApplication\WebApplication\obj\Release\net6.0\WebApplication.csproj.CoreCompileInputs.cache
+E:\pahse 3 assignments\day 6\WebApplication\WebApplication\obj\Release\net6.0\WebApplication.MvcApplicationPartsAssemblyInfo.cs
+E:\pahse 3 assignments\day 6\WebApplication\WebApplication\obj\Release\net6.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
